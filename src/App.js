@@ -62,7 +62,7 @@ const equals = (e) => {
       cal = String(parseFloat(preState) + parseFloat(curState));
       break;
     
-    case "X":
+    case "x":
       cal = String(parseFloat(preState) * parseFloat(curState));
       break;
     case "-":
